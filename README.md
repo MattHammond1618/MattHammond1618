@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 <!--
 **MattHammond1618/MattHammond1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
